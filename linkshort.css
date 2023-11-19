@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+label {
+    font-size: 1.2em;
+    margin-right: 5px;
+}
+
+input {
+    padding: 5px;
+    font-size: 1em;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#shortenedUrl {
+    margin-top: 10px;
+}
